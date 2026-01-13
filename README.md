@@ -32,14 +32,6 @@ These bands help analyze color intensity differences between fruit types.
 
 📷 **Sample RGB Band Output:**
 
-> *(Add this image to your repository and name it `rgb_bands.png`)*
-
-```md
-![RGB Band Separation](images/rgb_bands.png)
-```
-
----
-
 ### 4️⃣ Feature Extraction
 
 * Color features
@@ -51,12 +43,6 @@ A **feedforward neural network** is trained using extracted features.
 The trained model classifies the fruit based on learned patterns.
 
 📷 **Classification Result Output:**
-
-> *(Add this image to your repository and name it `classification_result.png`)*
-
-```md
-![Fruit Classification Result](images/classification_result.png)
-```
 
 Example output:
 
