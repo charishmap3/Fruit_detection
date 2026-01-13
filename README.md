@@ -31,6 +31,7 @@ Each input image is split into:
 These bands help analyze color intensity differences between fruit types.
 
 📷 **Sample RGB Band Output:**
+
 [![RGB Band Separation](Images/RGB.png)](Images/RGB.png)
 
 ### 4️⃣ Feature Extraction
@@ -44,7 +45,9 @@ A **feedforward neural network** is trained using extracted features.
 The trained model classifies the fruit based on learned patterns.
 
 📷 **Classification Result Output:**
+
 [![Fruit Classification Result](Images/OUTPUT.png)](Images/OUTPUT.png)
+
 
 Example output:
 
