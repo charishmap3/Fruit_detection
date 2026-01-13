@@ -94,8 +94,8 @@ Fruit_detection/
 │   ├── colorAutoCorrelogram.m
 │   └── target_main.mat
 │── images/
-│   ├── rgb_bands.png
-│   └── classification_result.png
+│   ├── RGB.png
+│   └── OUTPUT.png
 │── README.md
 ```
 
